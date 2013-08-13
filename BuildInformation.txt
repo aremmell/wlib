@@ -1,0 +1,33 @@
+Build information for the
+wlib Win32 library
+-------------------------
+March 02, 2004
+-------------------------
+
+--------------------------
+Static library build types
+--------------------------
+
+1. Multithreaded
+	ANSI: 	 bin-rA\wlibmta.lib (ANSI Multithread|Win32)
+	UNICODE: bin-rW\wlibmtw.lib (UNICODE Multithread|Win32)
+
+2. Multithreaded debug
+	ANSI:    bin-dA\wlibmtda.lib (Dbg ANSI Multithread|Win32)
+	UNICODE: bin-dW\wlibmtdw.lib (Dbg UNICODE Multithread|Win32)
+
+3. Multithreaded DLL
+	ANSI:	 bin-rA\wlibmtdlla.lib (ANSI Multithread DLL|Win32)
+	UNICODE: bin-rW\wlibmtdllw.lib (UNICODE Multithread DLL|Win32)
+
+4. Multithreaded debug DLL
+	ANSI:	 bin-dA\wlibmtddlla.lib (Dbg ANSI Multithread DLL|Win32)
+	UNICODE: bin-dW\wlibmtddllw.lib (Dbg UNICODE Multithread DLL|Win32)
+
+5. Single threaded
+	ANSI:	 bin-rA\wliba.lib (ANSI Singlethread|Win32)
+	UNICODE: bin-rW\wlibw.lib (UNICODE Singlethread|Win32)
+	
+5. Single threaded debug
+	ANSI:	 bin-dA\wlibda.lib (Dbg ANSI Singlethread|Win32)
+	UNICODE: bin-dW\wlibdw.lib (Dbg UNICODE Singlethread|Win32)

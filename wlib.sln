@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wlib", "wlib.vcproj", "{F57277C2-F9F9-4433-A751-C27926284541}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ANSI Multithread = ANSI Multithread
+		ANSI Multithread DLL = ANSI Multithread DLL
+		ANSI Singlethread = ANSI Singlethread
+		Dbg ANSI Multithread = Dbg ANSI Multithread
+		Dbg ANSI Multithread DLL = Dbg ANSI Multithread DLL
+		Dbg ANSI Singlethread = Dbg ANSI Singlethread
+		Dbg UNICODE Multithread = Dbg UNICODE Multithread
+		Dbg UNICODE Multithread DLL = Dbg UNICODE Multithread DLL
+		Dbg UNICODE Singlethread = Dbg UNICODE Singlethread
+		UNICODE Multithread = UNICODE Multithread
+		UNICODE Multithread DLL = UNICODE Multithread DLL
+		UNICODE Singlethread = UNICODE Singlethread
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F57277C2-F9F9-4433-A751-C27926284541}.ANSI Multithread.ActiveCfg = ANSI Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.ANSI Multithread.Build.0 = ANSI Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.ANSI Multithread DLL.ActiveCfg = ANSI Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.ANSI Multithread DLL.Build.0 = ANSI Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.ANSI Singlethread.ActiveCfg = ANSI Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.ANSI Singlethread.Build.0 = ANSI Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg ANSI Multithread.ActiveCfg = Dbg ANSI Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg ANSI Multithread.Build.0 = Dbg ANSI Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg ANSI Multithread DLL.ActiveCfg = Dbg ANSI Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg ANSI Multithread DLL.Build.0 = Dbg ANSI Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg ANSI Singlethread.ActiveCfg = Dbg ANSI Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg ANSI Singlethread.Build.0 = Dbg ANSI Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg UNICODE Multithread.ActiveCfg = Dbg UNICODE Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg UNICODE Multithread.Build.0 = Dbg UNICODE Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg UNICODE Multithread DLL.ActiveCfg = Dbg UNICODE Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg UNICODE Multithread DLL.Build.0 = Dbg UNICODE Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg UNICODE Singlethread.ActiveCfg = Dbg UNICODE Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.Dbg UNICODE Singlethread.Build.0 = Dbg UNICODE Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.UNICODE Multithread.ActiveCfg = UNICODE Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.UNICODE Multithread.Build.0 = UNICODE Multithread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.UNICODE Multithread DLL.ActiveCfg = UNICODE Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.UNICODE Multithread DLL.Build.0 = UNICODE Multithread DLL|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.UNICODE Singlethread.ActiveCfg = UNICODE Singlethread|Win32
+		{F57277C2-F9F9-4433-A751-C27926284541}.UNICODE Singlethread.Build.0 = UNICODE Singlethread|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
